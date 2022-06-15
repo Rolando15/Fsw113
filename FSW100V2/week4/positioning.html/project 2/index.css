@@ -1,0 +1,16 @@
+body, html {
+    margin: 20px;
+}
+.div1 {
+    width: 400px;
+    height: 1250px;
+    padding: 70px;
+    text-align: center;
+    border: 5px solid blue;
+    box-sizing: border-box;
+    margin: 60px
+    
+}
+.div2 {
+    text-align: center;
+}

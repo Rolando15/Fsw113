@@ -1,0 +1,28 @@
+body, html {
+    margin: 20px;
+}
+div.sticky {
+  
+  position: sticky;
+  
+ 
+}
+.space-one{
+    display: inline-block;
+    border: 6px black dashed;
+    padding: 10px 20px 30px 40px;
+    margin: 60px;
+    
+}
+.space-two{
+    display: inline-block;
+    border: 6px black dashed;
+    padding: 10px 20px 30px 40px;
+    margin: 60px;
+}
+.space-three{
+    display: inline-block;
+    border: 6px black dashed;
+    padding: 10px 20px 30px 40px;
+    margin: 60px;
+}
